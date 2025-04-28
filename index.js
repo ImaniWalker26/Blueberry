@@ -1,1 +1,1 @@
-// Add JavaScript below
+console.log("Welcome to Doggo Paradise! 🐾 Where every dog’s tail tells a story.");
